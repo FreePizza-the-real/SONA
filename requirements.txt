@@ -1,0 +1,2 @@
+PySide6
+winrt-Windows.Media.Control
